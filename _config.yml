@@ -1,4 +1,18 @@
 title: My Personal Website
 description: Welcome to my personal website!
-theme: minima
+theme: jekyll-theme-cayman
+
 author: Dereje Mechal Molla
+
+# URL settings
+url: "https://derejemm.github.io"   # Replace with your GitHub Pages URL
+baseurl: ""                         # Leave empty for user/organization site
+
+
+# Social links (optional)
+github_username: derejemm
+linkedin: linkedin.com/in/dereje-mechal-molla-963a6162
+twitter_username: your_twitter
+
+# Build settings
+markdown: kramdown
