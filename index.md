@@ -8,13 +8,18 @@ title: Home
 
 This is my personal website built with **GitHub Pages** and the **Cayman theme**.
 
+---
+
+## 🔗 Navigation
+[Home](/) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
+
+---
+
 ## About Me
-A short introduction about yourself goes here.
+I’m **Your Name**, and this is my personal corner on the web.  
+I share my projects, research, and interests here.
 
-## Projects
-- Project 1
-- Project 2
-- Project 3
-
-## Contact
-You can reach me at [your.email@example.com](mailto:your.email@example.com).
+## Latest Projects
+- 🚀 Project 1
+- 📡 Project 2
+- 🤖 Project 3
