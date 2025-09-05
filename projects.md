@@ -7,9 +7,9 @@ title: Projects
 
 Here are some of the things I’ve been working on:
 
-- **Project 1** – Short description here
-- **Project 2** – Short description here
-- **Project 3** – Short description here
+- **FERROMOBILE** – Short description here
+- **NEWNECTAR** – Short description here
+- **ProDACTIFS** – Short description here
 
 ---
 
