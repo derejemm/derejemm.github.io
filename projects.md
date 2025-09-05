@@ -1,14 +1,14 @@
+---
+layout: default
+title: Projects
+---
+
 <div class="navbar">
   <a href="/">Home</a>
   <a href="/about">About</a>
   <a href="/projects">Projects</a>
   <a href="/contact">Contact</a>
 </div>
-
----
-layout: default
-title: Projects
----
 
 # 💻 Projects
 
