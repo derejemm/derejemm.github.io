@@ -1,8 +1,6 @@
 title: My Personal Website
 description: Welcome to my personal website!
 theme: jekyll-theme-time-machine
-# remote_theme: pages-themes/time-machine@v0.2.0
-# plugins: jekyll-remote-theme
 
 author: Dereje Mechal Molla
 
@@ -14,7 +12,7 @@ baseurl: ""                         # Leave empty for user/organization site
 # Social links (optional)
 github_username: derejemm
 linkedin: linkedin.com/in/dereje-mechal-molla-963a6162
-twitter_username: your_twitter
+twitter_username: dere1223
 
 # Build settings
 markdown: kramdown
