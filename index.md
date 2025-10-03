@@ -23,7 +23,7 @@ This is my personal website built with **GitHub Pages** and the **Cayman theme**
 ---
 
 ## About Me
-I’m **Your Name**, and this is my personal corner on the web.  
+I’m Dereje Mechal Molla, and this is my personal corner on the web.  
 I share my projects, research, and interests here.
 
 ## Latest Projects
