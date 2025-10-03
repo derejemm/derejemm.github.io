@@ -29,3 +29,7 @@ I share my projects, research, and interests here.
 - 🚀 FERROMOBILE
 - 📡 NEWNECTAR
 - 🤖 ProDACTIFS
+
+<footer>
+  © 2025 Your Name · Built with GitHub Pages & Time Machine Theme
+</footer>
