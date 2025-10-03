@@ -7,6 +7,7 @@ title: Contact
   <a href="/">Home</a>
   <a href="/about">About</a>
   <a href="/projects">Projects</a>
+  <a href="/publications">Publications</a>
   <a href="/contact">Contact</a>
 </div>
 
@@ -23,4 +24,4 @@ Or find me on:
 ---
 
 ## 🔗 Navigation
-[Home](/) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
+[Home](/) | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Contact](contact.md)
