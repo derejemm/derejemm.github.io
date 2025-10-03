@@ -11,14 +11,10 @@ title: Home
   <a href="/contact">Contact</a>
 </div>
 
-# Welcome to My Website 👋
-
-<!-- This is my personal website built with **GitHub Pages** and the **Cayman theme**. -->
-
 ---
 
-## 🔗 Navigation
-[Home](/) | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Contact](contact.md)
+<!-- ## 🔗 Navigation
+[Home](/) | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Contact](contact.md) -->
 
 ---
 
