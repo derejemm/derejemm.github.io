@@ -13,11 +13,6 @@ title: Home
 
 ---
 
-<!-- ## 🔗 Navigation
-[Home](/) | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Contact](contact.md) -->
-
----
-
 ## About Me
 I’m Dereje Mechal Molla, and this is my personal corner on the web.  
 I share my projects, research, and interests here.
