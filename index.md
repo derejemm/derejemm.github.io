@@ -7,6 +7,7 @@ title: Home
   <a href="/">Home</a>
   <a href="/about">About</a>
   <a href="/projects">Projects</a>
+  <a href="/publications">Publications</a>
   <a href="/contact">Contact</a>
 </div>
 
@@ -17,7 +18,7 @@ This is my personal website built with **GitHub Pages** and the **Cayman theme**
 ---
 
 ## 🔗 Navigation
-[Home](/) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
+[Home](/) | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Contact](contact.md)
 
 ---
 
