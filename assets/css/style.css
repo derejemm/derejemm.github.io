@@ -86,3 +86,50 @@ footer {
   margin: 40px 0 0;
 }
 
+/* -------- Force-center the site title & description (Time Machine variants) -------- */
+header.site-header,
+.site-header,
+header[role="banner"],
+header {
+  /* make the header a vertical flex container so title+desc stack and center */
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+  gap: 6px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+/* Title */
+.site-title,
+.site-title a,
+header h1,
+header .site-title {
+  display: block !important;
+  width: 100% !important;
+  text-align: center !important;
+  margin: 0 !important;
+  line-height: 1.05;
+  font-weight: 700;
+}
+
+/* Description / subtitle */
+.site-description,
+.site-header .site-description,
+header p,
+.site-subtitle,
+.site-meta,
+header .site-meta {
+  display: block !important;
+  width: 100% !important;
+  text-align: center !important;
+  margin: 4px 0 14px !important;
+  color: #555 !important;
+  font-size: 1.05rem !important;
+  font-weight: 400 !important;
+  float: none !important;         /* cancel any theme float */
+  position: static !important;    /* cancel absolute positioning if present */
+}
+
