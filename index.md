@@ -13,7 +13,7 @@ title: Home
 
 # Welcome to My Website 👋
 
-This is my personal website built with **GitHub Pages** and the **Cayman theme**.
+/* This is my personal website built with **GitHub Pages** and the **Cayman theme**. */
 
 ---
 
