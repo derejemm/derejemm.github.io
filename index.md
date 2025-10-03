@@ -27,10 +27,10 @@ I’m **Your Name**, and this is my personal corner on the web.
 I share my projects, research, and interests here.
 
 ## Latest Projects
-- 🚀 FERROMOBILE
-- 📡 NEWNECTAR
+- 🚙 FERROMOBILE
+- 🚆 NEWNECTAR
 - 🤖 ProDACTIFS
 
 <footer>
-  © 2025 Your Name · Built with GitHub Pages & Time Machine Theme
+  © 2025 Dereje M.M. · Built with GitHub Pages & Time Machine Theme
 </footer>
