@@ -7,6 +7,7 @@ title: About
   <a href="/">Home</a>
   <a href="/about">About</a>
   <a href="/projects">Projects</a>
+  <a href="/publications">Publications</a>
   <a href="/contact">Contact</a>
 </div>
 
@@ -18,4 +19,4 @@ Here’s a bit about me, my background, and what I do.
 ---
 
 ## 🔗 Navigation
-[Home](/) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
+[Home](/) | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Contact](contact.md)
