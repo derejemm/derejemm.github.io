@@ -2,6 +2,10 @@ title: Dereje Mechal Molla
 description: Welcome to my personal website!
 theme: jekyll-theme-time-machine
 
+# custom styles
+sass:
+  sass_dir: assets/css
+
 author: Dereje Mechal Molla
 
 # URL settings
