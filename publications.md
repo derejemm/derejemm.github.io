@@ -28,10 +28,10 @@ title: Publications
 - **Molla, Dereje Mechal**, Hakim Badis, Laurent George, and Marion Berbineau. "Coverage extension of software defined radio platforms for 3gpp 4g/5g radio access networks." In 2021 13th IFIP Wireless and Mobile Networking Conference (WMNC), pp. 55-62. IEEE, 2021.
 
 
-###2020
+### 2020
 - **Molla, Dereje Mechal**, Hakim Badis, Laurent George, and Marion Berbineau. "NEWNECTAR: A New gEneration of Adaptable Wireless Sensor NEtwork for Way Side objeCTs in rAilway enviRonments." In International Workshop on Communication Technologies for Vehicles, pp. 166-178. Cham: Springer International Publishing, 2020.
 
-###2019
+### 2019
 - **Molla, Dereje Mechal**, Hakim Badis, Alemayehu Addisu Desta, Laurent George, and Marion Berbineau. "SDR-based reliable and resilient wireless network for disaster rescue operations." In 2019 International Conference on Information and Communication Technologies for Disaster Management (ICT-DM), pp. 1-7. IEEE, 2019.
 
 ---
