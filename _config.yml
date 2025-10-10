@@ -6,6 +6,15 @@ theme: jekyll-theme-time-machine
 sass:
   sass_dir: assets/css
 
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Publications"
+    url: /publication
+
 author: Dereje Mechal Molla
 
 # URL settings
