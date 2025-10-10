@@ -14,6 +14,12 @@ nav:
     url: /about
   - title: "Publications"
     url: /publications
+  - title: "Projects"
+    url: /projects
+  - title: "Teaching"
+    url: /teaching
+  - title: "Contact"
+    url: /contact
 
 show_downloads: false
 
