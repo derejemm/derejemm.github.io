@@ -160,3 +160,12 @@ header .site-description {
   margin-top: 10px;
 }
 
+/* Highlight the active navigation tab */
+nav a.active {
+  color: #ffffff;           /* White text for active link */
+  background-color: #007acc; /* Blue highlight */
+  border-radius: 8px;
+  padding: 5px 10px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
