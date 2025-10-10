@@ -85,12 +85,6 @@ a:hover {
   font-weight: bold;
 }
 
-.navbar a:hover {
-  color: #ffffff;
-  background-color: #005fa3;
-  border-radius: 6px;
-  transition: all 0.2s ease;
-}
 
 /* Footer */
 footer {
