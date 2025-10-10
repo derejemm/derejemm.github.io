@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-
+<!--
 <div class="navbar">
   <a href="/">Home</a>
   <a href="/about">About</a>
@@ -11,6 +11,7 @@ title: About
   <a href="/teaching">Teaching</a>
   <a href="/contact">Contact</a>
 </div>
+-->
 
 # 👤 About Me
 
