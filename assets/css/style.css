@@ -152,5 +152,11 @@ header .site-title {
   margin: 0;
 }
 
-
+/* Center and lighten the description */
+header p,
+header .site-description {
+  color: #f8f8f8 !important;
+  font-size: 1.3em;
+  margin-top: 10px;
+}
 
