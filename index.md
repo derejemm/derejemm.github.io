@@ -14,8 +14,16 @@ title: Home
 
 
 
-I’m Dereje Mechal Molla, and this is my personal corner on the web.  
-I share my projects, research, and interests here.
+I’m **Dereje Mechal Molla**, a researcher and developer passionate about **Vehicular Networks (V2X), Machine Learning, and Intelligent Transport Systems (ITS)**.
+
+This website shares my work, publications, teaching activities, and ongoing projects in **Vehicular communication - V2X connectivity**, **AI-driven network optimization**, **5G/6G communication**, and **edge computing**.
+
+## Current research area
+- Hybrid **V2X communication** (ITS-G5 & C-V2X)
+- Smart connectivity
+- SDN for vehicular networks
+- V2X connectivity for railway encironments
+
 
 ## Latest Projects
 - 🚙 FERROMOBILE
