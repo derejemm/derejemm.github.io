@@ -75,8 +75,21 @@ a:hover {
   font-size: 16px;
 }
 
+/* Highlight active navigation tab */
+.navbar a.active,
+.navbar a[aria-current="page"] {
+  color: #ffffff !important;
+  background-color: #007acc;
+  border-radius: 6px;
+  padding: 6px 12px;
+  font-weight: bold;
+}
+
 .navbar a:hover {
-  color: #007acc;
+  color: #ffffff;
+  background-color: #005fa3;
+  border-radius: 6px;
+  transition: all 0.2s ease;
 }
 
 /* Footer */
