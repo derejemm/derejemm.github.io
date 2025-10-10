@@ -3,7 +3,8 @@
 
   <a href="{{ '/' | relative_url }}" class="{% if current == '/' %}active{% endif %}">Home</a>
   <a href="{{ '/about/' | relative_url }}" class="{% if current contains '/about' %}active{% endif %}">About</a>
-  <a href="{{ '/publication/' | relative_url }}" class="{% if current contains '/publication' %}active{% endif %}">Publications</a>
   <a href="{{ '/project/' | relative_url }}" class="{% if current contains '/project' %}active{% endif %}">Projects</a>
+  <a href="{{ '/publication/' | relative_url }}" class="{% if current contains '/publication' %}active{% endif %}">Publications</a>
+  <a href="{{ '/teaching/' | relative_url }}" class="{% if current contains '/teaching' %}active{% endif %}">Teaching</a>
   <a href="{{ '/contact/' | relative_url }}" class="{% if current contains '/contact' %}active{% endif %}">Contact</a>
 </nav>
