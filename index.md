@@ -3,16 +3,6 @@ layout: default
 title: Home
 ---
 
-<div class="navbar">
-  <a href="/">Home</a>
-  <a href="/about">About</a>
-  <a href="/projects">Projects</a>
-  <a href="/publications">Publications</a>
-  <a href="/teaching">Teaching</a>
-  <a href="/contact">Contact</a>
-</div>
-
-
 
 I’m **Dereje Mechal Molla**, a researcher and developer passionate about **Vehicular Networks (V2X), Machine Learning, and Intelligent Transport Systems (ITS)**.
 
