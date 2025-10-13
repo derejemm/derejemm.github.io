@@ -3,15 +3,6 @@ layout: default
 title: Publications
 ---
 
-<div class="navbar">
-  <a href="/">Home</a>
-  <a href="/about">About</a>
-  <a href="/projects">Projects</a>
-  <a href="/publications">Publications</a>
-  <a href="/teaching">Teaching</a>
-  <a href="/contact">Contact</a>
-</div>
-
 # 📚 Publications
 
 ### 2025
