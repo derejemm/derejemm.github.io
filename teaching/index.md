@@ -5,11 +5,16 @@ title: Teaching
 
 # 💻 Teaching activities
 
-Here are some of the things I’ve been working on:
+Below are some of the courses I teach :
 
 - **Digital Communication**
 - **Software Defined Networking (SDN)**
 - **Programming Connected Objects**
+- **Data Communication and Computer Networks**
+
+
+# Supervisions
+- **Designing an SDN controller for reliable wireless network connectivity** Dingyang LIU, MSc, April - September 2024.
 
 ---
 
