@@ -16,7 +16,12 @@ This website shares my work, publications, teaching activities, and ongoing proj
 
 
 ## Latest Projects
-- <img width="1140" height="500" alt="image" src="https://github.com/user-attachments/assets/b81aa2fb-f322-4a40-987f-5be40b184c4c" /> Pods4Rail
+- <ul>
+  <li>
+    <img src="/assets/image/pods4rail.png" width="20" style="vertical-align: middle; margin-right: 8px;">
+    Pods4Rail
+  </li>
+</ul> 
 - 🚙 FERROMOBILE
 - 🚆 NEWNECTAR
 - 🤖 ProDACTIFS
