@@ -17,9 +17,7 @@ This website shares my work, publications, teaching activities, and ongoing proj
 
 ## Latest Projects
 - <ul>
-  <li>
     <img src="/assets/image/pods4rail.png" width="20" style="vertical-align: middle; margin-right: 8px;"> Pods4Rail
-  </li>
   </ul> 
 
 - 🚙 FERROMOBILE
