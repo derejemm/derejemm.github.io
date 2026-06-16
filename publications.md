@@ -5,6 +5,9 @@ title: Publications
 
 # 📚 Publications
 
+### 2026
+- **D. Mechal Molla**, L. Mendiboure, S. Maaloul, Dingyang Liu, and M. Berbineau. RAT Switching Strategies and Link Recovery in a Three-Layer Pods4Rail Architecture. In IEEE 103rd Vehicular Technology Conference: VTC2026-Spring, Nice, France, 2026.
+  
 ### 2025
 - **D. Mechal Molla**, C. Hadji, S. Maaloul, L. Mendiboure, M. Berbineau and H. Badis, "Evaluation of V2X Technologies for the Connectivity of Small Autonomous Vehicles on Secondary Railway Lines," in IEEE Access, vol. 13, pp. 116170-116187, 2025, doi: 10.1109/ACCESS.2025.3585300.
 - Narouwa, Massamaesso, Leo Mendiboure, Sassi Maaloul, Ndeye Birame Dia, Hakim Badis, **Dereje M. Molla**, Marion Berbineau, and Rami Langar. "Mobility in 5G Emulators: Implementation and Evaluation." In 2025 28th International Symposium on Real-Time Distributed Computing (ISORC), pp. 144-152. IEEE, 2025.
