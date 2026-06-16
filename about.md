@@ -54,4 +54,4 @@ My long-term goal is to contribute to **autonomous and resilient intelligent tra
 You can reach me on [GitHub](https://github.com/derejemm) or [LinkedIn](#).
 
 ## 🔗 Navigation
-[Home](/) | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Teaching](teaching.md) | [Contact](contact.md)
+[Home](/) | [About](about.md) | [Projects](projects/.md) | [Publications](publications.md) | [Teaching](teaching.md) | [Contact](contact.md)
