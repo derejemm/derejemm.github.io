@@ -16,4 +16,4 @@ Or find me on:
 ---
 
 ## 🔗 Navigation
-[Home](/) | [About](about.md) | [Projects](projects.md) | [Publications](publications.md) | [Teaching](teaching.md) | [Contact](contact.md)
+[Home](/) | [About](about.md) | [Projects](projects/) | [Publications](publications.md) | [Teaching](teaching/) | [Contact](contact.md)
