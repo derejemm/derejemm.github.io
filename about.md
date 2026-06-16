@@ -29,14 +29,14 @@ I currently focus on **hybrid V2X systems for multi-modal transportation**, wher
 
 ### 🧩 Technical Expertise
 - **Skills on:**
- - **Simulation tools:** OMNeT++, SUMO, VEINS, Artery, SimuLTE, GNU Radio
- - **Open Source RAN softwares:** srsRAN, OpenAirInterface (OAI), Open5G
- - **Development tools:** Visual Studio Code (VSCode), PyCharm, Code::Blocks
- - **Programming:** Python, C/C++, Shell, JSON, Basics on MATLAB
- - **Database:** MySQL, MongoDB
- - **Frameworks:** TensorFlow, PyTorch  
- - **Networking Tools:** SDN controllers, Mininet
- - **System:** Unix/Linux, Virtualization (VirtualBox, VMware)
+  - **Simulation tools:** OMNeT++, SUMO, VEINS, Artery, SimuLTE, GNU Radio
+  - **Open Source RAN softwares:** srsRAN, OpenAirInterface (OAI), Open5G
+  - **Development tools:** Visual Studio Code (VSCode), PyCharm, Code::Blocks
+  - **Programming:** Python, C/C++, Shell, JSON, Basics on MATLAB
+  - **Database:** MySQL, MongoDB
+  - **Frameworks:** TensorFlow, PyTorch  
+  - **Networking Tools:** SDN controllers, Mininet
+  - **System:** Unix/Linux, Virtualization (VirtualBox, VMware)
 - **Technical knowledge on:**
   - Wireless and mobile networking, Software Defined Networking (SDN), Network Functions Virtualization (NFV),
   - System Modeling and design, Network Modeling, QoS, network design and installation , 
