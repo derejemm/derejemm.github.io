@@ -23,7 +23,7 @@ Below are some of the courses I teach :
 - Dingyang Liu (M.Sc. student) with Marion Berbineau & Léo Mendiboure. April 2024 - September 2024.
   - Topic **Designing an SDN controller for reliable wireless network connectivity**
   - Laboratory: COSYS/LEOST, UGE, Villeneuve d'Ascq, France
-- Chadli Hadji (M.Sc. student) with Marion Berbineau. April 2023 \textendash September 2023.
+- Chadli Hadji (M.Sc. student) with Marion Berbineau. April 2023 - September 2023.
   - Topic: **Study and evaluate performance of V2X connectivity technologies.**
   - Laboratory: COSYS/LEOST, UGE, Villeneuve d'Ascq, France
 
