@@ -3,15 +3,6 @@ layout: default
 title: Contact
 ---
 
-<div class="navbar">
-  <a href="/">Home</a>
-  <a href="/about">About</a>
-  <a href="/projects">Projects</a>
-  <a href="/publications">Publications</a>
-  <a href="/teaching">Teaching</a>
-  <a href="/contact">Contact</a>
-</div>
-
 # 📬 Contact Me
 
 You can reach me at:  
