@@ -18,7 +18,7 @@ This website shares my work, publications, teaching activities, and ongoing proj
 ## Latest Projects
 I am currently involded in the following Projects:
 - <img src="/assets/image/pods4rail.png" width="20" style="vertical-align: middle; margin-right: 8px;"> Pods4Rail - European porject [pods4rail](https://pods4rail.eu/)
-- 🚙 FERROMOBILE - French project <a href="https://ferromobile.fr/fr/accueil/"></a> 
+- 🚙 FERROMOBILE - French project [ferromobile](https://ferromobile.fr/fr/accueil/)
 
 Completed projects:
 - 🚆 NEWNECTAR - European project under X2RAIL-4
