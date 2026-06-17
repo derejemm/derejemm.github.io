@@ -38,7 +38,7 @@ I currently focus on **hybrid V2X systems for multi-modal transportation**, wher
   - **Networking Tools:** SDN controllers, Mininet
   - **System:** Unix/Linux, Virtualization (VirtualBox, VMware)
 - **Technical knowledge on:**
-  - Wireless and mobile networking, Software Defined Networking (SDN), Network Functions Virtualization (NFV),
+  - Wireless and mobile networking, Internet of Things (IoT), Software Defined Networking (SDN), Network Functions Virtualization (NFV),
   - System Modeling and design, Network Modeling, QoS, network design and installation , 
   - Software Defined Radio (SDR), Digital Communication, Signal processing,
   - basics on Kubernets, Machine Learning and security.
