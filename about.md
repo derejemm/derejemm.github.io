@@ -6,7 +6,7 @@ title: About
 
 # 👤 About Me
 
-Hello! I'm **Dereje Mechal Molla**, a researcher and developer specializing in **Vehicular Communication (V2X)**, **Software-Defined Networking (SDN)**, and **Machine Learning**.
+Hello! I'm **Dereje Mechal Molla**, a researcher and developer specializing in **Vehicular Communication (V2X)**, **Software-Defined Networking (SDN)**, and **Open Source RAN**.
 
 I currently focus on **hybrid V2X systems for multi-modal transportation**, where vehicles dynamically select wireless connectivity technologies for reliable and robust communication.
 
